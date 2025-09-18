@@ -54,3 +54,10 @@ layout: default
 
 **最后啰嗦两句**：买卡时看清套餐包含的具体内容，是仅数据，还是也包含通话短信？流量用超了之后是怎么计费的？是降速还是额外收费？这些细节决定了你最终的使用体验和花费。祝你在卢森堡的网络一路畅通！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Luxembourg eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/luxembourg-data-plans)
